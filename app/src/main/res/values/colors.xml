@@ -16,4 +16,13 @@
     <color name="light_gray">#dedddd</color>
     <color name="light_blue">#6977ab</color>
     <color name="light_green">#6dc275</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_700">#00796B</color>
+    <color name="black">#252121</color>
+
+
+
 </resources>
